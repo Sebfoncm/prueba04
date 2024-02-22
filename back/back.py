@@ -1,1 +1,1 @@
-print("que tal")
+print("que tal como vas")
